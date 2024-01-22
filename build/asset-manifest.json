@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/viveblog/static/css/main.4ff4936f.css",
+    "main.js": "/viveblog/static/js/main.5480d264.js",
+    "static/js/787.d6cd40a4.chunk.js": "/viveblog/static/js/787.d6cd40a4.chunk.js",
+    "static/media/letsallbealllosers.png": "/viveblog/static/media/letsallbealllosers.19feeed7356e07a5fe8f.png",
+    "static/media/carryyourcross.jpg": "/viveblog/static/media/carryyourcross.3e36ab21be309ae5ef5d.jpg",
+    "index.html": "/viveblog/index.html",
+    "main.4ff4936f.css.map": "/viveblog/static/css/main.4ff4936f.css.map",
+    "main.5480d264.js.map": "/viveblog/static/js/main.5480d264.js.map",
+    "787.d6cd40a4.chunk.js.map": "/viveblog/static/js/787.d6cd40a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff4936f.css",
+    "static/js/main.5480d264.js"
+  ]
+}

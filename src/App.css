@@ -13,7 +13,6 @@
 .blog-post {
   margin-bottom: 20px;
   border-radius: 8px;
-  border: 1px solid #d6d6d6;
   height: -moz-fit-content;
   height: fit-content;
   width: 600px;
@@ -25,6 +24,13 @@
   width: 100%;
   object-fit: cover;
   border-radius: 8px 8px 0 0;
+}
+
+article img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 20px;
 }
 
 .blog-post h2 {
@@ -55,7 +61,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: #dde6ee;
+  background-color: #717e86;
   color: #2d2d2d;
   text-align: center;
 }
@@ -96,7 +102,7 @@ header img {
 
 header span {
   position: relative;
-  color: #b06447;
+  color: #9c9492;
   border-radius: 5px;
   font-family: "Lucida Console", "Courier New", monospace;
   font-weight: bold;
@@ -124,12 +130,12 @@ iframe {
 article p {
   font-size: 14px;
   margin: 0;
-  color: #717171;
+  color: #ffffff;
   margin-bottom: 8px;
 }
 
 article .title {
-  color: #000000;
+  color: #313030;
   font-weight: 700;
   font-size: 20px;
   margin-bottom: 16px;

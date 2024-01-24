@@ -5,8 +5,8 @@ import { useParams } from 'react-router-dom';
 import { mockData } from '../data/mockData';
 
 const PostPage: React.FC = () => {
-  const { postId } = useParams<{ postId: string }>();
-  const post = mockData.posts.find(p => p.id.toString() === postId);
+  const { devoId } = useParams<{ devoId: string }>();
+  const post = mockData.posts.find(p => p.id.toString() === devoId);
 
   return (
     <div className='article-container'>

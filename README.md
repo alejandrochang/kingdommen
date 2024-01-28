@@ -1,6 +1,6 @@
 # Kingdom Men
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A website to helping run devotionals for Kingdom Men that can be referenced in the future
 
 ## Available Scripts
 

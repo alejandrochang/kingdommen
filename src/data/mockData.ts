@@ -33,6 +33,11 @@ export const mockData: BlogListProps = {
         { verse: "1 Corinthians 2:14-16", day: 5 },
         { verse: "Acts 4:31", day: 6 },
         { verse: "1 Corinthians 12:7-11", day: 6 },
+        { verse: "Galatians 5:22-23", day: 7 },
+        { verse: "Romans 8:9-11", day: 7 },
+        { verse: "1 Corinthians 6:11", day: 7 },
+        { verse: "1 Corinthians 12:7-11", day: 7 },
+        { verse: "", day: 8 },
       ],
       notes: [
         "Day 1: Who is the Holy Spirit? - The Spirit of Jesus that gives us acess to the loving, saving, healing and powerful presence of God! The Bible tells us that the Holy Spirit is: God (third person of the trinity), the Spirit of Jesus whom Jesus sent when he ascended into heaven, always with us, gives us salvation and sanctification, gives us power to conquer sin and fear, gives us strength to be Jesus' witnesses in the world.",
@@ -40,7 +45,9 @@ export const mockData: BlogListProps = {
         "Day 3: How do we receive the Holy Spirit? - Through Gods grace through faith in Jesus Christ. The Holy Spirit can't be tamed or controlled. Hes soverign, unpredictable and trustworthy. As you have faith in the Lord Jesus and what he has done, the free gift of the Holy Spirit becomes evident so that you can become more like Jesus.",
         "Day 4: How does the Holy Spirit help us? - The Holy Spirit leads us into all truth. The Spirit makes the Word of God come alive to us. The Holy Spirit gives us life! Renews our mind, and transforms our hearts.",
         "Day 5: How does the Holy Spirit help us understand the Bible? - The Holy Spirit leads us to Jesus. He cleanses our sins and makes us holy. When we open our hearts, our bibles, the Holy Spirit will be present! The Holy Spirit bears witness to Jesus.",
-        "Day 5: What does it mea to be filled with the Spirit? - The Spirit of God helps us be in alignment with Gods purpose for our life. The Spiritual Gifts are always for a purpose and higher calling. The Spirit fills us with Gods power and helps us to grow in our relationship with Jesus. The Spirit also fills us with Gods love, to move through us to others.",
+        "Day 6: What does it mea to be filled with the Spirit? - The Spirit of God helps us be in alignment with Gods purpose for our life. The Spiritual Gifts are always for a purpose and higher calling. The Spirit fills us with Gods power and helps us to grow in our relationship with Jesus. The Spirit also fills us with Gods love, to move through us to others.",
+        "Day 7: What is the result of being filled with the Holy Spirit? - God created us to be like him, to bear his image. In love and holiness to take care of the world through Him. We were created to be like Jesus in the world. The fruits of the Spirit are the result of being filled with the Holy Spirit.",
+        "Day 8: ",
       ],
     },
     {

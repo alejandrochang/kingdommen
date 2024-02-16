@@ -37,7 +37,9 @@ export const mockData: BlogListProps = {
         { verse: "Romans 8:9-11", day: 7 },
         { verse: "1 Corinthians 6:11", day: 7 },
         { verse: "1 Corinthians 12:7-11", day: 7 },
-        { verse: "", day: 8 },
+        { verse: "1 Corinthians 12:4-7", day: 8 },
+        { verse: "1 Corinthians 12:8-11", day: 8 },
+        { verse: "1 Corinthians 12:27-31", day: 8 },
       ],
       notes: [
         "Day 1: Who is the Holy Spirit? - The Spirit of Jesus that gives us acess to the loving, saving, healing and powerful presence of God! The Bible tells us that the Holy Spirit is: God (third person of the trinity), the Spirit of Jesus whom Jesus sent when he ascended into heaven, always with us, gives us salvation and sanctification, gives us power to conquer sin and fear, gives us strength to be Jesus' witnesses in the world.",
@@ -47,7 +49,7 @@ export const mockData: BlogListProps = {
         "Day 5: How does the Holy Spirit help us understand the Bible? - The Holy Spirit leads us to Jesus. He cleanses our sins and makes us holy. When we open our hearts, our bibles, the Holy Spirit will be present! The Holy Spirit bears witness to Jesus.",
         "Day 6: What does it mea to be filled with the Spirit? - The Spirit of God helps us be in alignment with Gods purpose for our life. The Spiritual Gifts are always for a purpose and higher calling. The Spirit fills us with Gods power and helps us to grow in our relationship with Jesus. The Spirit also fills us with Gods love, to move through us to others.",
         "Day 7: What is the result of being filled with the Holy Spirit? - God created us to be like him, to bear his image. In love and holiness to take care of the world through Him. We were created to be like Jesus in the world. The fruits of the Spirit are the result of being filled with the Holy Spirit.",
-        "Day 8: ",
+        "Day 8: What are the gifts of the Spirit? - Every believer has Spiritual gifts. There are several gifts that depends on what you're called to do. Everyone is empowered by the Holy Spirit. No one can boast, as the only thing we should boast about is Jesus. The gifts are simply a bi-product of loving God and being blessed by the Holy Spirit. The purpose of the gifts and annointing is never for you! Its always for the church, to server and for wherever God has called you to demonstrate that gift.",
       ],
     },
     {

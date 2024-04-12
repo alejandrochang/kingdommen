@@ -55,7 +55,7 @@ export const mockData: BlogListProps = {
         "Question 6: How can we discern the essential from the noise?",
         "Question 7: How can we know the difference between urgent and important? Especially in a Kingdom led world?",
         "Question 8: Jesus showed us the importance of priority, focus as he fullfilled his calling. How can we accept our unipresence? What can we do to remain focused one task at a time?",
-        "Question 9: How can we embrace product\ive rest? The LORD would give breaks to his diciplies. How can we do the same for ourselves and others?",
+        "Question 9: How can we embrace productive rest? The LORD would give breaks to his diciplies. How can we do the same for ourselves and others?",
         "Question 10: How can we rely on Jesus being our ultimate rest?",
         "Question 11: How can we be busy without being hurried?",
         "Question 12: How can we embrace productive business while eliminating hurry from our lives?",

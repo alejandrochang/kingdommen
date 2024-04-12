@@ -30,7 +30,7 @@ const BlogPost: React.FC<BlogPostProps> = ({ post }) => (
       })}
     </p>
     <div className="border-line" />
-    <p className="title">{"Devotional Notes"}</p>
+    <p className="title">{"Devotional Notes and Questions"}</p>
     <a href={post.url}>{`Devotional Link: ${post.title}`}</a>
     <br /><br />
     <p>
